@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: A little bit about my interests
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+As an undergraduate rising junior at Yale University, I devote my studies to Computing and the Arts, with an emphasis on graphic design. I plan on focusing on using design and software to smooth out user interfaces and optimize user experiences for the better, with a focus on improving readability for disabled audiences.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### I am currently seeking
 
-What else do you need?
+I am currently seeking a 2020 fall internship in UI/UX design. My work as a software developer intern for Maven (a language-learning startup) and a graphic designer for the Yale Center for International and Professional Experience complemented my academic coursework in computer science and the arts and allowed me to develop a deeper understanding of substantive artistic and computing problems. I am excited to apply my strengths in computer science and visual arts to real-world problems in the industry. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Check out my [LinkedIn](www.linkedin.com/in/kelly-zhou-b14660196) here or contact me at [kelly.zhou@yale.edu].
