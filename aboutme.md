@@ -10,4 +10,6 @@ As an undergraduate rising junior at Yale University, I devote my studies to Com
 
 I am currently seeking a 2020 fall internship in UI/UX design. My work as a software developer intern for Maven (a language-learning startup) and a graphic designer for the Yale Center for International and Professional Experience complemented my academic coursework in computer science and the arts and allowed me to develop a deeper understanding of substantive artistic and computing problems. I am excited to apply my strengths in computer science and visual arts to real-world problems in the industry. 
 
-Check out my [LinkedIn](www.linkedin.com/in/kelly-zhou-b14660196) here or contact me at [kelly.zhou@yale.edu].
+If you're interested in a project or collaboration, let's get in touch! 
+
+[LinkedIn](www.linkedin.com/in/kelly-zhou-b14660196) / kelly.zhou@yale.edu.
